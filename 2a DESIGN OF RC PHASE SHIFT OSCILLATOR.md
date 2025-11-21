@@ -18,8 +18,10 @@
 |    5.54        |  1 ms            |    3.20KHz                  |  3.80KHz                      |
 
 # Graph
-![WhatsApp Image 2025-11-21 at 11 55 58_f33a3971](https://github.com/user-attachments/assets/c1a68818-f1b9-46d3-b692-29f81e39d8b0)
-![WhatsApp Image 2025-11-21 at 11 56 35_a4f3d567](https://github.com/user-attachments/assets/4181008b-9777-4424-bb55-9f6c90cbffc3)
+![WhatsApp Image 2025-11-21 at 11 57 19_9abb6aa4](https://github.com/user-attachments/assets/ef92876a-ada4-4662-9813-496933b5be0e)
+
+![WhatsApp Image 2025-11-21 at 11 57 47_a2740c94](https://github.com/user-attachments/assets/bed80aa9-17cc-412e-a953-41ed143dad79)
+
 
 # Sample images
 
